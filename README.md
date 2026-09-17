@@ -1,7 +1,7 @@
-# AI-Powered Interactive Hand Portal
+# Interactive Hand Portal
 
 ## Overview
- This project leverages state-of-the-art machine learning models to detect and track up to 4 hands simultaneously, creating a seamless and smooth "portal" visual effect that follows the user's movements.
+A real-time, interactive hand-tracking application that features advanced visual effects and gesture-based controls. This project accurately detects and tracks up to 4 hands simultaneously, rendering a seamless and dynamic "portal" visual effect that naturally follows the user's movements on screen.
 
 ## Features
 - **Advanced Dual-Hand & Multi-Hand Tracking**: Stable and reliable tracking for up to 4 hands with a 15-frame dual-hand persistence tracker, preventing "ghost" movements and jittering.
@@ -12,7 +12,7 @@
 ## Technologies Used
 - **Python**: Core programming language.
 - **OpenCV (cv2)**: Used for real-time video capture (utilizing `CAP_DSHOW` on Windows for stability), frame manipulation, and image compositing.
-- **MediaPipe Tasks (HandLandmarker)**: Google's powerful machine learning framework for high-performance, real-time hand tracking and landmark detection.
+- **MediaPipe Tasks (HandLandmarker)**: A highly efficient computer vision framework used for high-performance, real-time hand tracking and landmark detection.
 - **NumPy**: Employed for efficient matrix operations, alpha blending, and image array manipulations.
 
 ## How to Run
