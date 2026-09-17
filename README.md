@@ -25,3 +25,8 @@ A real-time, interactive hand-tracking application that features advanced visual
    ```bash
    python hand_portal.py
    ```
+
+## License & Copyright
+**Copyright (c) 2026 FriendWithCode. All Rights Reserved.**
+
+The source code, architecture, and associated assets in this repository are proprietary and confidential. Unauthorized copying, modification, distribution, or use of this project, via any medium, is strictly prohibited without explicit permission from the author.
